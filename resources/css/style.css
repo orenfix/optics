@@ -87,7 +87,7 @@ nav span {
   width: 35%;
   padding: 2.5%;
 }
-.info span {
+.info-header {
   background-color: cadetblue;
   color: white;
   font-weight: bold;
@@ -178,7 +178,7 @@ footer img {
     margin-bottom: 4rem;
     padding: 0;
   }
-  .info span {
+  .info-header {
     width: 100%;
     text-align: center;
     padding: 0.5rem 0;
